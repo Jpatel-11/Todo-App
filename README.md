@@ -121,34 +121,6 @@ TODO-APP/
 │   ├── package.json
 │   ├── package-lock.json
 │   └── .gitignore
-├── .gitignore
-└── README.mdTODO-APP/
-├── backend/
-│   ├── models/
-│   │   └── Todo.js
-│   ├── routes/
-│   │   └── todo.js
-│   ├── server.js
-│   ├── package.json
-│   └── package-lock.json
-├── frontend/
-│   ├── public/
-│   │   ├── index.html
-│   │   ├── manifest.json
-│   │   └── robots.txt
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── AddTodo.js
-│   │   │   ├── Todo.css
-│   │   │   └── TodoList.js
-│   │   ├── App.css
-│   │   ├── App.js
-│   │   ├── index.css
-│   │   ├── index.js
-│   │   └── logo.svg
-│   ├── package.json
-│   ├── package-lock.json
-│   └── .gitignore
 ├── demo/
 │   ├── Demo-Thumbnail.png
 │   └── Todo-Demo.mp4
