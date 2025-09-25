@@ -1,11 +1,11 @@
-# 🌐 Portfolio Website
+# ✅ Todo-App
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Express.js](https://img.shields.io/badge/Backend-Express.js-lightgrey)
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 
-A full-stack MERN ToDo application built by Jaimin Patel. Users can add, delete, and toggle tasks through a clean, responsive interface. The app uses React for the frontend, Express and MongoDB for the backend, and follows a modular, RESTful architecture. It’s designed to be simple, scalable, and ideal for showcasing full-stack development skills.
+A full-stack MERN Todo application built by Jaimin Patel. Users can add, delete, and toggle tasks through a clean, responsive interface. The app uses React for the frontend, Express and MongoDB for the backend, and follows a modular, RESTful architecture. It’s designed to be simple, scalable, and ideal for showcasing full-stack development skills.
 
 ---
 
@@ -35,6 +35,12 @@ GitHub: [Jpatel-11](https://github.com/Jpatel-11)
 - 🔄 **Persistent Storage**: All data saved in MongoDB
 - 📱 **Responsive Design**: Works on mobile and desktop
 - 🔧 **Modular Components**: Clean separation of UI logic
+
+---
+
+## 💡 Why This Project?
+
+This Todo App was built to strengthen my full-stack development skills using the MERN stack. It demonstrates my ability to build modular, scalable applications with real-world functionality and clean UI/UX.
 
 ---
 
